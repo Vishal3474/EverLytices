@@ -11,6 +11,9 @@
 How To Open Project -
 
 1st - Download GitHub Repo
+<br>
 2nd - Unzip File
+<br>
 3rd - use NPM => npm install
+<br>
 4th - use NPM => npm run dev
