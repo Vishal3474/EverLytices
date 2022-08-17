@@ -8,3 +8,9 @@
 
 📫 How to reach me Vishalkumar3474@gmail.com...
 
+How To Open Project -
+
+1st - Download GitHub Repo
+2nd - Unzip File
+3rd - use NPM => npm install
+4th - use NPM => npm run dev
